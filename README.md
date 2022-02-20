@@ -1,8 +1,7 @@
 # WiBulk
 Description:
 ==========================================================
-Using this program, you can automatically send your message to the numbers you give it.
-
+Using this program, you can automatically send your WhatsApp message to the numbers you give it
 
 # Launch the app
 ```
